@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://zhongshan2020.github.io/genic_eQTL/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/genic_eQTL/v/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2/" />
+  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/genic_eQTL/v/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139/" />
 
-  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/genic_eQTL/v/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2/" />
+  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/genic_eQTL/v/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/genic_eQTL/v/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/genic_eQTL/v/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://zhongshan2020.github.io/genic_eQTL/v/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2/))
+([permalink](https://zhongshan2020.github.io/genic_eQTL/v/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139/))
 was automatically generated
-from [zhongshan2020/genic_eQTL@fe52fa2](https://github.com/zhongshan2020/genic_eQTL/tree/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2)
+from [zhongshan2020/genic_eQTL@eb21825](https://github.com/zhongshan2020/genic_eQTL/tree/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139)
 on August 26, 2020.
 </em></small>
 
