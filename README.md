@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/zhongshan2020/genic_eQTL/tree/gh-pages) branch hosts the contents of this directory at <https://zhongshan2020.github.io/genic_eQTL/>.
-The permalink for this webpage version is <https://zhongshan2020.github.io/genic_eQTL/v/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2/>.
+The permalink for this webpage version is <https://zhongshan2020.github.io/genic_eQTL/v/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://zhongshan2020.github.io/genic_eQTL/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2`](https://github.com/zhongshan2020/genic_eQTL/commit/fe52fa29cecf40fe40e19c5cc0828cfa435dcaf2).
+[`eb21825a7856ef7a4a9b345ff2aa9a6eadc98139`](https://github.com/zhongshan2020/genic_eQTL/commit/eb21825a7856ef7a4a9b345ff2aa9a6eadc98139).
